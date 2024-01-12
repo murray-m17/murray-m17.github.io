@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #121212;
+    background-color: #181818;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
@@ -11,9 +11,10 @@ div.header {
     justify-content: center;
     align-items: center;
     height: 60px;
+    background-color: #121212;
 }
 div.header-transition {
-    background-image: linear-gradient(#121212, yellow);
+    background-image: linear-gradient(#121212, #181818);
     height: 20px;
 }
 h1.title {
