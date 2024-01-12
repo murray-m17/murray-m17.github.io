@@ -7,11 +7,14 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 div.header {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 60px;
 }
 img.logo {
-    float: left;
+    position: absolute;
+    left: 0;
     height: 60px;
     width: 60px;
 }
