@@ -12,6 +12,10 @@ div.header {
     align-items: center;
     height: 60px;
 }
+h1.title {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
 img.logo {
     position: absolute;
     left: 0;
