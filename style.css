@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 body {
     margin: 0;
     padding: 0;
     background-color: #121212;
     color: white;
+    font-family: 'Poppins', sans-serif;
 }
 div.header {
     text-align: center;
