@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #121212;
+    background-color: #18185C;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
@@ -11,6 +11,7 @@ div.header {
     justify-content: center;
     align-items: center;
     height: 60px;
+    background-color: #18184D;
 }
 h1.title {
     padding-top: 6px;
