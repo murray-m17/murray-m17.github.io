@@ -12,6 +12,10 @@ div.header {
     align-items: center;
     height: 60px;
 }
+div.header-transistion {
+    background-image: linear-gradient(#121212, yellow);
+    height: 20px;
+}
 h1.title {
     padding-top: 6px;
     padding-bottom: 6px;
